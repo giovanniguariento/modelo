@@ -10,6 +10,7 @@ export class GraphComponent {
    highcharts = Highcharts;
 
    styleGraph : any = "line";
+   
 
    chartOptions: Highcharts.Options = {
      title: {
